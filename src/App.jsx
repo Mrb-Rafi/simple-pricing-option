@@ -1,6 +1,6 @@
 import './App.css'
 import NavBar from './components/NavBar/NavBar'
-import PriceOptions from './components/PriceOption/PriceOption'
+import PriceOptions from './components/PriceOptions/PriceOptions'
 
 function App() {
 
